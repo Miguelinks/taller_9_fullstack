@@ -1,0 +1,20 @@
+table {
+  background-color: yellow; 
+  width: 900px;
+  border-spacing: 0;
+  margin: 50px 100px;
+   
+}
+
+th,td {
+    width: 50%;
+    border: 1px dotted black;
+}
+
+thead {
+    color: red;
+    text-align: center;
+   
+   
+}
+
