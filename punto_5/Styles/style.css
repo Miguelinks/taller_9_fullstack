@@ -1,0 +1,24 @@
+u {
+    color: green;
+   
+}
+strong {
+    color: red;
+}
+
+.especial {
+    text-decoration: overline underline;
+}
+
+.mayuscula {
+    font-size: 50px;
+}
+
+.azul {
+    color: blue;
+}
+
+.solo {
+    color: red;
+    text-decoration: underline;
+}

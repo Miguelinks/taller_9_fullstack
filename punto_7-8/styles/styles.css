@@ -1,0 +1,24 @@
+header {
+   background-color: plum;
+   max-width: 480px;
+   padding: 1px;
+   
+   
+}
+
+ul {
+    color: #ffffff;
+    font-size: 20px;
+    text-align: center;
+    display: flex;
+    list-style: none;
+    gap: 30px;
+ 
+}
+
+.caja {
+
+    background-color: blue;
+    padding: 7px;
+ 
+}
