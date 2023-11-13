@@ -6,6 +6,7 @@
 
 <h2>Link de la pagina web</h2>
 
+<a href="https://miguelinks.github.io/taller_9_fullstack/"> Link pagina web<a>
 
 <h2>Punto 1: link de figma</h2>
 <a href="https://www.figma.com/file/MJ6LqRBycGBqOjHBfQsdao/Miguel-Due%C3%B1as-Rojas?type=design&node-id=0%3A1&mode=design&t=a32iebBsVDYX1FWx-1"> Link de Figma<a>
